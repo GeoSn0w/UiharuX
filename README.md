@@ -35,7 +35,7 @@ v1.2
 
 v1.3
   - The Menu button will now only be visible when you open AppLauncher.
-  - nowFall is here! (Snow falls on the home screen)
+  - SnowFall is here! (Snow falls on the home screen)
   - Added an option to adjust EdgeLight thickness
     (To enter the EdgeLight settings screen, press and hold EdgeLight in the menu.)
 
